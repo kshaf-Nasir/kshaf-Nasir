@@ -1,6 +1,6 @@
 # Hi, I'm Kashaf 👋
 🚀 Final Year CS Student | 🌐 Web Developer | 🤖 AI Enthusiast
-- 🔭 Currently working on: Employee Performance Evaluation Portal  
+- 🔭 Currently working on: Employee Performance Appraisal Portal  
 - 🌱 Learning: Laravel, AI & GitHub  
 - 💡 Exploring: AI in Web Applications
 -   
