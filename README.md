@@ -1,4 +1,4 @@
-# Hi, I'm Kashaf 👋
+# Hi, I'm Kshaf 👋
 🚀 Final Year CS Student | 🌐 Web Developer | 🤖 AI Enthusiast
 - 🔭 Currently working on: Employee Performance Appraisal Portal  
 - 🌱 Learning: Laravel, AI & GitHub  
